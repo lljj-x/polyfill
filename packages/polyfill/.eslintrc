@@ -4,6 +4,6 @@
     "es6": true
   },
   "extends": [
-    "@gb/eslint-config-gb"
+    "@lljj/eslint-config"
   ]
 }

@@ -24,7 +24,7 @@ import 'core-js/fn/global';
 import 'regenerator-runtime/runtime';
 
 if (global._babelPolyfill && typeof console !== "undefined" && console.warn) {
-    console.warn("@gb/polyfill is loaded more than once on this page. ");
+    console.warn("@lljj/polyfill is loaded more than once on this page. ");
 }
 
 global._babelPolyfill = true;
