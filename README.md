@@ -11,6 +11,7 @@ npm install @lljj/polyfill
 
 ### dom
 修复了如下API
+
 1. children
 2. dateset
 3. matches
@@ -19,14 +20,15 @@ npm install @lljj/polyfill
 
 ### bom
 修复了如下API
-2. location.origin
-3. requestAnimationFrame
+
+1. location.origin
+1. requestAnimationFrame
 
 ### esnext
-* async await regeneratorRuntime 方法定义
+async await regeneratorRuntime 方法定义
 1. regenerator-runtime/runtime
 
-* 沿用 babel 的 core-js 垫片，导出了如下API：
+沿用 babel 的 core-js 垫片，导出了如下API：
 1. es6.object.keys
 1. object.assign
 1. function.name
