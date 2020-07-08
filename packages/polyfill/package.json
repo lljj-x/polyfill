@@ -10,7 +10,7 @@
   },
   "repository": "https://github.com/liujunchina/polyfill",
   "homepage": "https://github.com/liujunchina/polyfill",
-  "license": "MIT License",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },

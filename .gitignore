@@ -2,6 +2,8 @@
 node_modules
 
 /packages/polyfill/node_modules
+/packages/polyfill/stats.html
+
 
 # local env files
 .env.local
