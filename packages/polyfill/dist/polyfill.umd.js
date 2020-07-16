@@ -1,4 +1,4 @@
-/** @license @lljj/polyfill v0.1.0 (c) 2020-2020 Liu.Jun License: MIT */
+/** @license @lljj/polyfill (c) 2020-2020 Liu.Jun License: MIT */
 (function (factory) {
     typeof define === 'function' && define.amd ? define(factory) :
     factory();

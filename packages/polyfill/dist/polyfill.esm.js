@@ -1,4 +1,4 @@
-/** @license @lljj/polyfill v0.1.0 (c) 2020-2020 Liu.Jun License: MIT */
+/** @license @lljj/polyfill (c) 2020-2020 Liu.Jun License: MIT */
 /* IE10等部分浏览器获取window.location.origin为undefined */
 if (!window.location.origin) {
   var winlocation = window.location;
