@@ -1,6 +1,6 @@
 {
   "name": "@lljj/polyfill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "构建ie9+ 个人常用polyfill",
   "main": "dist/polyfill.umd.min.js",
   "module": "dist/polyfill.esm.min.js",
