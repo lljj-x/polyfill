@@ -1,8 +1,8 @@
 {
     "private": true,
     "description": "构建ie9+ 个人常用polyfill",
-    "repository": "https://github.com/liujunchina/eslint-config",
-    "homepage": "https://github.com/liujunchina/eslint-config",
+    "repository": "https://github.com/lljj-x/polyfill",
+    "homepage": "https://github.com/lljj-x/polyfill",
     "author": "Liu.Jun",
     "workspaces": [
         "packages/polyfill"
